@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-
-
-- 🔭 I’m currently working on learning the foundations of GitHub.
-- 🌱 I’m currently learning how to create this README
-- 👯 I’m looking to collaborate on anything that helps me grow closer to my career goals. 
-- 😄 Pronouns: she/her/they
--->
+- 🔭 I’m currently diving deeper into GitHub as part of my technical writing and UX documentation studies.
+- 🌱 Building a stronger foundation in developer tools, Agile workflows, and user-focused documentation.
+- 👯 Open to collaborating on anything that aligns with my growth as a writer and documentarian.
